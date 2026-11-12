@@ -6,7 +6,11 @@ Image 1. This is a photo of my cat Sebby, short for Sebastian. She is only frien
 ## Education
 - Western Washington University (https://www.wwu.edu/)
 - Everett Community College (https://www.everettcc.edu/)
-  
+
+### Research Interests
+- chemical and physical oceanography
+- plankton
+- climate change
 
 
 
